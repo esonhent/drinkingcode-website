@@ -27,6 +27,6 @@
 
 
 ## 公众号
-如果你觉得[driningcode](http://www.drinkingcode.com)不错，可以扫码关注drinkingcode微信公众号
+如果你觉得[drinkingcode](http://www.drinkingcode.com)不错，可以扫码关注[drinkingcode](http://www.drinkingcode.com)微信公众号
 
 ![](https://github.com/drinkingcode/drinkingcode-website/blob/master/images/drinkingcode.jpg)
