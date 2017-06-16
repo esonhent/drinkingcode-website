@@ -25,6 +25,6 @@
 
 
 
-## 官方公众号
+## 微信公众号
 如果你觉得driningcode网站不错，可以扫码关注drinkingcode微信公众号
 
