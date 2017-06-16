@@ -1,4 +1,4 @@
-![drinkingcode](https://github.com/drinkingcode/drinkingcode-website/tree/master/images/drinkingcode.jpg) 用编程去探索未知的世界
+![](https://github.com/drinkingcode/drinkingcode-website/blob/master/images/drinkingcode.jpg) 用编程去探索未知的世界
 
 
 
@@ -28,4 +28,4 @@
 
 ## 微信公众号
 如果你觉得driningcode网站不错，可以扫码关注drinkingcode微信公众号
-![drinkingcode](https://github.com/drinkingcode/drinkingcode-website/tree/master/images/drinkingcode.jpg)
+![](https://github.com/drinkingcode/drinkingcode-website/blob/master/images/drinkingcode.jpg)
