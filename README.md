@@ -7,15 +7,7 @@
 
 
 
-
-
-
-
-
 ## 移动开发
-
-
-
 
 
 
@@ -24,9 +16,21 @@
 
 
 
+## 人工智能
 
 
-## 公众号
+
+## 硬件开发
+
+
+
+## 嵌入式开发
+
+
+
+
+
+### 公众号
 如果你觉得[drinkingcode](http://www.drinkingcode.com)不错，可以扫码关注[drinkingcode](http://www.drinkingcode.com)微信公众号
 
 ![](https://github.com/drinkingcode/drinkingcode-website/blob/master/images/drinkingcode.jpg)
