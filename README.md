@@ -14,7 +14,7 @@
 
 
 ### 后端开发
-后端开发以Nodejs + MySQL 的组合为来进行后端开发知识的讲解，然后辅以 Express 框架。
+后端开发以Nodejs + MySQL 的组合来进行后端开发知识的讲解，然后辅以 Express 框架。
 
 
 ### AI开发
